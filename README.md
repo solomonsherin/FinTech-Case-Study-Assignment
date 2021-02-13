@@ -126,7 +126,7 @@ _***Transfer fees***_
 **Why are these technologies appropriate for your solution?**
 *Python for Financial Data Extraction and Stock Portfolio Analysis . AI and Machine learning will be key in continuous developing a comprehensive up –to-date evolving portfolio structure along with tiered based pricing . Advanced Mobile Application for a stand alone Mobile Platform for RBC InvestEase. Integration of Makisoft (used by RBC) for improved financial planning services tied to robo-advising.* 
 
-###Addendum: Citations
+**Addendum**: **Citations**
 https://www.moneysense.ca/save/investing/best-robo-advisors-in-canada/
 by Bryan Borzykowski on december 31, 2020
 https://www.investmentexecutive.com/news/industry-news/rbc-launches-robo-advisor-platform/
